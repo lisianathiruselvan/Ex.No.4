@@ -122,4 +122,3 @@ Manufacturing companies, especially in automotive, electronics, and food process
 
 The experiment successfully designed prompts for each type based on the manufacturing automation scenario. The prompts were evaluated using the rubric method and scored between good and excellent across clarity, relevance, engagement, practical application, and adaptability. This approach demonstrates how AI prompts can be structured and refined for industrial applications to enhance productivity, efficiency, and real-time problem-solving.
 
----=
